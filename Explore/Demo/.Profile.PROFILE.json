@@ -40,5 +40,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "8QcYNTr9MpYh8AgxEX16E5",
+    "name" : "Single_Input_Rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8QcYNTr9MpYh8AgxEX16E5"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "single input rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Demo"
   } ]
 }
