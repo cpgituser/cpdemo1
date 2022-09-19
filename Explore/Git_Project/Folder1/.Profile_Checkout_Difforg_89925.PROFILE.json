@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "3qHvrJLtGYNl6AOJ6XgNKB",
+    "name" : "Profile_Checkout_Difforg_89925",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "139c4e93-0e71-4099-bf17-63e31d724bbc"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "a0lppXKbsATbJe67xsrYq8",
+    "name" : "ORA_SRC",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "014LOP0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
